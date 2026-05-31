@@ -28,6 +28,7 @@
 </p>
 
 ## ⚙️ Backend
+
 <p align="left">
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python" />
@@ -56,6 +57,7 @@
 </p>
 
 ## 🔗 API & Communication
+
 <p align="left">
   <!-- REST API -->
   <img src="https://img.icons8.com/color/48/api-settings.png" width="40" height="40" alt="REST API" />
@@ -70,11 +72,23 @@
 </p>
 
 ## 🚀 DevOps & Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,postman" />
 </p>
 
 ##
+
+# 🔥 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrestha-ankit07/shrestha-ankit07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrestha-ankit07/shrestha-ankit07/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/shrestha-ankit07/shrestha-ankit07/output/pacman-contribution-graph-dark.svg">
+</picture>
+
+##
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shrestha-ankit07&label=Profile+Views&color=2D9BF0&style=for-the-badge"/>
 </div>
