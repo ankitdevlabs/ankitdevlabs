@@ -1,76 +1,91 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjEyM2g0MmhzMWpndWJlNGF6eW1pa25kbjJxcG9kZXFmdTg2MDdkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="800" alt="Programmer working on multiple screens"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=2D9BF0&center=true&vCenter=true&width=800&height=120&lines=Ankit+Shrestha;Software+Engineer+%7C+AI+Enthusiast;Python+%7C+JavaScript+%7C+TypeScript+%7C+C%2B%2B;" width="800" alt="Typing Animation"/>
+
+<p>
+  <a href="https://www.linkedin.com/in/ankitshrestha7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@ankitshrestha196">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@swan_999-god">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 </div>
 
-<h3 align="center">Hi 👋, I'm Ankit Shrestha (Software Engineer | AI Enthusiast)</h3>
-
 ---
 
-<p align="center">
-  <!-- Languages & Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />
+# 💻 Tech Stack
 
-  <!-- Backend & API -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="45" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" alt="FastAPI" />
- 
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" />
-  
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45" alt="Sass" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="45" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nextdotjs.svg" height="45" alt="Next.js" />
- 
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="45" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="45" alt="GraphQL" />
-  <img src="https://logo.svgcdn.com/logos/grpc.svg" height="45" alt="gRPC" />
-  
-  <!-- API clients / REST tools -->
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="25" alt="Postman" />
-  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" height="25" alt="Insomnia" />
+## 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,nextjs" />
+</p>
+
+## ⚙️ Backend
+<p align="left">
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python" />
+  <!-- FastAPI -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" title="FastAPI" />
+  <!-- Starlette -->
+  <img src="https://img.shields.io/badge/Starlette-000000?style=flat-square&logo=starlette&logoColor=white" width="40" height="40" title="Starlette" />
+  <!-- Node.js -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="40" height="40" title="Node.js" />
+  <!-- Express -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" title="Express" />
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
+  <!-- TypeScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript" />
+  <!-- Flask -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" title="Flask" />
+  <!-- C++ -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++" />
+</p>
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+## 🔗 API & Communication
+<p align="left">
+  <!-- REST API -->
+  <img src="https://img.icons8.com/color/48/api-settings.png" width="40" height="40" alt="REST API" />
+  <!-- GraphQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL" />
+  <!-- gRPC -->
+  <img src="https://grpc.io/img/logos/grpc-icon-color.png" width="40" height="40" alt="gRPC" />
+  <!-- Insomnia -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" width="40" height="40" alt="Insomnia" />
+  <!-- Postman -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
+</p>
+
+## 🚀 DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,postman" />
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ankitshrestha7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@ankitshrestha196" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://www.youtube.com/@swan_999-god" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
-
-###
+# 🔥 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrestha-ankit07/shrestha-ankit07/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrestha-ankit07/shrestha-ankit07/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shrestha-ankit07/shrestha-ankit07/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/shrestha-ankit07/shrestha-ankit07/output/pacman-contribution-graph-dark.svg">
 </picture>
-
-###
 
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shrestha-ankit07" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=shrestha-ankit07&label=Profile+Views&color=2D9BF0&style=for-the-badge"/>
 </div>
