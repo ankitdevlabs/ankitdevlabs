@@ -74,8 +74,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,postman" />
 </p>
 
----
-
+##
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shrestha-ankit07&label=Profile+Views&color=2D9BF0&style=for-the-badge"/>
 </div>
