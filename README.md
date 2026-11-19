@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./.assets/hero.svg" width="100%" alt="Ankit Shrestha — Software Engineer | AI Enthusiast. Python, JavaScript, TypeScript, C++." />
+<img src="./.assets/hero.svg" width="100%" alt="Ankit Shrestha — Software Engineer | AI Enthusiast. Python, JavaScript, TypeScript, C++. Illustration of a developer at a multi-monitor desk at night, with mountains outside the window." />
 
 <br/><br/>
 
@@ -8,7 +8,6 @@
   <tr>
     <td align="center" width="210"><a href="https://www.linkedin.com/in/ankitshrestha7/"><img src="./.assets/icons/linkedin.svg" width="22" height="22" alt="" align="center" />&nbsp;&nbsp;<b>LinkedIn</b></a><br/><sub>ankitshrestha7</sub></td>
     <td align="center" width="210"><a href="https://medium.com/@ankitshrestha196"><img src="./.assets/icons/medium.svg" width="22" height="22" alt="" align="center" />&nbsp;&nbsp;<b>Medium</b></a><br/><sub>@ankitshrestha196</sub></td>
-    <td align="center" width="210"><a href="https://www.youtube.com/@swan_999-god"><img src="./.assets/icons/youtube.svg" width="22" height="22" alt="" align="center" />&nbsp;&nbsp;<b>YouTube</b></a><br/><sub>@swan_999-god</sub></td>
   </tr>
 </table>
 
@@ -17,7 +16,7 @@
 <br/>
 
 <h2 align="center">Tech Stack</h2>
-<p align="center"><sub>FROM INTERFACE TO INFRASTRUCTURE &nbsp;·&nbsp; 30 TOOLS ACROSS 5 LAYERS</sub></p>
+<p align="center"><sub>FROM INTERFACE TO INFRASTRUCTURE</sub><br/><sub>30 TOOLS &nbsp;·&nbsp; 5 LAYERS</sub></p>
 
 <table>
   <tr>
