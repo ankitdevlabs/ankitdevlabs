@@ -15,7 +15,7 @@
 
 <br/>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
 <table>
   <tr>
@@ -81,4 +81,4 @@
 
 <br/>
 
-<p align="center"><sub>BUILD &nbsp;·&nbsp; LEARN &nbsp;·&nbsp; INNOVATE</sub></p>
+<p align="center"><sub>✦ &nbsp; BUILD &nbsp;·&nbsp; LEARN &nbsp;·&nbsp; INNOVATE &nbsp; ✦</sub></p>
