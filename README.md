@@ -16,7 +16,6 @@
 <br/>
 
 <h2 align="center">Tech Stack</h2>
-<p align="center"><sub>FROM INTERFACE TO INFRASTRUCTURE</sub><br/><sub>30 TOOLS &nbsp;·&nbsp; 5 LAYERS</sub></p>
 
 <table>
   <tr>
