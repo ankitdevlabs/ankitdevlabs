@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./.assets/hero.svg" width="100%" alt="Ankit Shrestha — Software Engineer | AI Enthusiast. Python, JavaScript, TypeScript, C++. Illustration of a developer at a multi-monitor desk at night, with mountains outside the window." />
+<img src="./.assets/hero.svg" width="100%" alt="Ankit Shrestha — Software Engineer | AI Enthusiast. Python, JavaScript, TypeScript, C++. Illustration of a developer coding at a multi-monitor desk at night, with the moon and a city skyline outside the window." />
 
 <br/><br/>
 
